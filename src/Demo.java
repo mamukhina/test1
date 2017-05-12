@@ -5,7 +5,6 @@ public class Demo {
         System.out.println("Hello!");
         System.out.println("Hello!");
         System.out.println("Hello!");
-        System.out.println("Hello!7");
-        System.out.println("Hello!8");
+        System.out.println("Hello!");
     }
 }
